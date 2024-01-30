@@ -1,0 +1,57 @@
+HEADER    Model coordinates
+ for PDB-CCD HMJ
+COMPND    HMJ
+AUTHOR    pdbccdutils 0.8.4
+AUTHOR    RDKit 2023.03.3
+HETATM    1 C10  HMJ A   1      39.374  37.723  23.884  1.00 20.00           C  
+HETATM    2 C15  HMJ A   1      35.922  35.805  20.776  1.00 20.00           C  
+HETATM    3 C17  HMJ A   1      36.786  37.813  19.769  1.00 20.00           C  
+HETATM    4 C01  HMJ A   1      40.227  41.905  26.374  1.00 20.00           C  
+HETATM    5 C03  HMJ A   1      41.678  41.364  28.192  1.00 20.00           C  
+HETATM    6 C04  HMJ A   1      41.879  40.168  26.100  1.00 20.00           C  
+HETATM    7 C05  HMJ A   1      41.104  39.312  25.086  1.00 20.00           C  
+HETATM    8 C07  HMJ A   1      39.806  37.244  25.121  1.00 20.00           C  
+HETATM    9 C08  HMJ A   1      39.319  36.088  25.719  1.00 20.00           C  
+HETATM   10 C09  HMJ A   1      38.343  35.375  25.034  1.00 20.00           C  
+HETATM   11 C11  HMJ A   1      38.376  36.975  23.211  1.00 20.00           C  
+HETATM   12 C12  HMJ A   1      37.883  35.825  23.784  1.00 20.00           C  
+HETATM   13 C14  HMJ A   1      36.788  36.008  21.882  1.00 20.00           C  
+HETATM   14 C16  HMJ A   1      35.922  36.710  19.732  1.00 20.00           C  
+HETATM   15 C18  HMJ A   1      37.644  38.017  20.864  1.00 20.00           C  
+HETATM   16 C19  HMJ A   1      37.634  37.095  21.926  1.00 20.00           C  
+HETATM   17 N02  HMJ A   1      40.954  40.829  27.043  1.00 20.00           N  
+HETATM   18 O06  HMJ A   1      40.803  38.079  25.694  1.00 20.00           O  
+HETATM   19 O13  HMJ A   1      36.957  35.286  22.982  1.00 20.00           O  
+HETATM   20 H1   HMJ A   1      39.783  38.627  23.457  1.00 20.00           H  
+HETATM   21 H2   HMJ A   1      35.266  34.947  20.751  1.00 20.00           H  
+HETATM   22 H3   HMJ A   1      36.793  38.514  18.947  1.00 20.00           H  
+HETATM   23 H4   HMJ A   1      39.543  42.386  27.089  1.00 20.00           H  
+HETATM   24 H5   HMJ A   1      40.942  42.649  25.993  1.00 20.00           H  
+HETATM   25 H6   HMJ A   1      39.648  41.490  25.536  1.00 20.00           H  
+HETATM   26 H7   HMJ A   1      40.969  41.850  28.879  1.00 20.00           H  
+HETATM   27 H8   HMJ A   1      42.192  40.544  28.716  1.00 20.00           H  
+HETATM   28 H9   HMJ A   1      42.419  42.101  27.848  1.00 20.00           H  
+HETATM   29 H10  HMJ A   1      42.569  39.523  26.664  1.00 20.00           H  
+HETATM   30 H11  HMJ A   1      42.453  40.935  25.560  1.00 20.00           H  
+HETATM   31 H12  HMJ A   1      41.721  39.145  24.190  1.00 20.00           H  
+HETATM   32 H13  HMJ A   1      40.173  39.824  24.800  1.00 20.00           H  
+HETATM   33 H14  HMJ A   1      39.685  35.757  26.679  1.00 20.00           H  
+HETATM   34 H15  HMJ A   1      37.936  34.471  25.463  1.00 20.00           H  
+HETATM   35 H16  HMJ A   1      35.259  36.568  18.891  1.00 20.00           H  
+HETATM   36 H17  HMJ A   1      38.303  38.872  20.889  1.00 20.00           H  
+CONECT    1    8   11   11   20
+CONECT    2   13   13   14   21
+CONECT    3   14   14   15   22
+CONECT    4   17   23   24   25
+CONECT    5   17   26   27   28
+CONECT    6    7   17   29   30
+CONECT    7   18   31   32
+CONECT    8    9    9   18
+CONECT    9   10   33
+CONECT   10   12   12   34
+CONECT   11   12   16
+CONECT   12   19
+CONECT   13   16   19
+CONECT   14   35
+CONECT   15   16   16   36
+END

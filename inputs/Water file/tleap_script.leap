@@ -1,0 +1,3 @@
+source leaprc.water.tip3p
+x = loadPDB waters.pdb
+saveAmberParm x waters.parm7 waters.rst7
