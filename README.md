@@ -11,8 +11,5 @@ __The notebooks included on this page cover the necessary steps to setup, run an
 * Running Equilibration and Minimisation for the Small Molecule:RNA system.
 * Writing scripts to initiate 100 ns molecular dynamics simulations using various simulation engines.
 * Analysing MD simulations and producing plots for reports.
-* Loading, parameterising, solvating and merging ligands, the RNA and the waters for RBFE calculations. Includes making merged molecules.
-* Generating the RNFE input (.pert) files
-* Analysing the RBFE output data
 
 
